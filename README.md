@@ -180,7 +180,7 @@ Open `http://localhost:3000` and start screening! 🎉
 
 ## 📹 Demo
 
-> [Screen recording link — add after recording]
+> https://drive.google.com/drive/folders/1mPMc-DjedBzEB52mNbLfBlslhUXMCobL
 
 ---
 
